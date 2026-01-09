@@ -2,9 +2,13 @@
   "name": "midnight-rose-theme",
   "displayName": "Midnight Rose Theme",
   "description": "A sophisticated dark theme with elegant rose accents for a calm coding experience.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "nathan-dev",
   "icon": "icon.png",
+  "main": "./extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
