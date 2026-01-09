@@ -1,11 +1,11 @@
 {
-  "name": "Mon Thème Custom",
+  "name": "Midnight Rose Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#2D2426",
+    "editor.background": "#1A1617",
     "editor.foreground": "#EAE0E2",
-    "activityBar.background": "#261E20",
-    "sideBar.background": "#261E20",
+    "activityBar.background": "#141112",
+    "sideBar.background": "#141112",
     "statusBar.background": "#b46993",
     "statusBar.foreground": "#FFFFFF"
   },
