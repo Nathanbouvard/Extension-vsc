@@ -1,9 +1,10 @@
 {
-  "name": "rose-dark-theme",
-  "displayName": "Rose Dark Theme",
-  "description": "Un thème sombre élégant aux tons roses pour un environnement de code apaisant.",
-  "version": "1.0.0",
+  "name": "midnight-rose-theme",
+  "displayName": "Midnight Rose Theme",
+  "description": "A sophisticated dark theme with elegant rose accents for a calm coding experience.",
+  "version": "1.0.1",
   "publisher": "nathan-dev",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.70.0"
   },
