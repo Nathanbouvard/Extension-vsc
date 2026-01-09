@@ -1,0 +1,33 @@
+{
+  "name": "rose-dark-theme",
+  "displayName": "Rose Dark Theme",
+  "description": "Un thème sombre élégant aux tons roses pour un environnement de code apaisant.",
+  "version": "1.0.0",
+  "publisher": "nathan-dev",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathan/rose-dark-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mon Thème Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mon-theme-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "mon-icons",
+        "label": "Mes Icônes Lucide Rose",
+        "path": "./mon-icon-theme.json"
+      }
+    ]
+  }
+}

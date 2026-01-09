@@ -1,0 +1,30 @@
+{
+  "iconDefinitions": {
+    "file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "folder_open": {
+      "iconPath": "./icons/folder-open.svg"
+    },
+    "html": {
+      "iconPath": "./icons/html.svg"
+    },
+    "css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "js": {
+      "iconPath": "./icons/js.svg"
+    }
+  },
+  "file": "file",
+  "folder": "folder",
+  "folderExpanded": "folder_open",
+  "fileExtensions": {
+    "html": "html",
+    "css": "css",
+    "js": "js"
+  }
+}
