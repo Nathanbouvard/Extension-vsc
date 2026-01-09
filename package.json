@@ -17,16 +17,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mon Thème Custom",
+        "label": "Rose Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/mon-theme-color-theme.json"
+        "path": "./themes/rose-dark-theme.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "mon-icons",
-        "label": "Mes Icônes Lucide Rose",
-        "path": "./mon-icon-theme.json"
+        "id": "rose-dark-icons",
+        "label": "Rose Dark Icons",
+        "path": "./rose-dark-icon-theme.json"
       }
     ]
   }
