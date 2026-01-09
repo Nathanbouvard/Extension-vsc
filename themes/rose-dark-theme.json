@@ -6,6 +6,11 @@
     "editor.foreground": "#EAE0E2",
     "activityBar.background": "#050505",
     "sideBar.background": "#050505",
+    "sideBarTitle.foreground": "#FF79C6",
+    "sideBarSectionHeader.foreground": "#FF79C6",
+    "list.activeSelectionForeground": "#FF1493",
+    "list.hoverForeground": "#FFB6C1",
+    "terminal.foreground": "#FFB6C1",
     "statusBar.background": "#b46993",
     "statusBar.foreground": "#FFFFFF"
   },
