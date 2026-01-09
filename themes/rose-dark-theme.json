@@ -40,6 +40,11 @@
     "terminal.ansiCyan": "#FFC0CB",
     "terminal.ansiWhite": "#EAE0E2",
     "terminalCursor.foreground": "#FF1493",
+    "button.background": "#FF1493",
+    "button.foreground": "#FFFFFF",
+    "button.hoverBackground": "#FF69B4",
+    "button.secondaryBackground": "#DB7093",
+    "button.secondaryForeground": "#FFFFFF",
     "statusBar.background": "#b46993",
     "statusBar.foreground": "#FFFFFF"
   },
