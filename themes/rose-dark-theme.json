@@ -104,6 +104,31 @@
       "settings": {
         "foreground": "#F8BBD0"
       }
+    },
+    {
+      "scope": ["variable", "variable.other"],
+      "settings": {
+        "foreground": "#EAE0E2"
+      }
+    },
+    {
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#FFB7B2"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "entity.name.class", "support.class"],
+      "settings": {
+        "foreground": "#FF1493",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["constant.language", "constant.numeric"],
+      "settings": {
+        "foreground": "#D16D8E"
+      }
     }
   ]
 }

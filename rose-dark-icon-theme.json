@@ -17,7 +17,15 @@
     },
     "js": {
       "iconPath": "./icons/js.svg"
-    }
+    },
+    "py": { "iconPath": "./icons/py.svg" },
+    "ts": { "iconPath": "./icons/ts.svg" },
+    "java": { "iconPath": "./icons/java.svg" },
+    "cpp": { "iconPath": "./icons/cpp.svg" },
+    "json": { "iconPath": "./icons/json.svg" },
+    "php": { "iconPath": "./icons/php.svg" },
+    "react": { "iconPath": "./icons/react.svg" },
+    "md": { "iconPath": "./icons/markdown.svg" }
   },
   "file": "file",
   "folder": "folder",
@@ -25,6 +33,19 @@
   "fileExtensions": {
     "html": "html",
     "css": "css",
-    "js": "js"
+    "js": "js",
+    "py": "py",
+    "ts": "ts",
+    "tsx": "ts",
+    "java": "java",
+    "class": "java",
+    "cpp": "cpp",
+    "cc": "cpp",
+    "h": "cpp",
+    "json": "json",
+    "php": "php",
+    "jsx": "react",
+    "md": "md",
+    "markdown": "md"
   }
 }
