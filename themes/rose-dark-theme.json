@@ -2,10 +2,10 @@
   "name": "Midnight Rose Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#0A0909",
+    "editor.background": "#161616",
     "editor.foreground": "#EAE0E2",
-    "activityBar.background": "#050505",
-    "sideBar.background": "#050505",
+    "activityBar.background": "#121212",
+    "sideBar.background": "#121212",
     "sideBarTitle.foreground": "#FF79C6",
     "sideBarSectionHeader.foreground": "#FF79C6",
     "list.activeSelectionForeground": "#FF1493",
